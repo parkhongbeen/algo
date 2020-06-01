@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="627b063b-16dc-439c-bfec-18c4c6a295f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../programmers/level_1/.ipynb_checkpoints/x만큼 간격이 있는 n개의 숫자-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/level_1/.ipynb_checkpoints/x만큼 간격이 있는 n개의 숫자-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/level_1/x만큼 간격이 있는 n개의 숫자.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/level_1/x만큼 간격이 있는 n개의 숫자.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/3_day/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/3_day/Untitled.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ci9on6AbKfW4Xcy4cyqLITwxaL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="627b063b-16dc-439c-bfec-18c4c6a295f1" name="Default Changelist" comment="" />
+      <created>1591000725019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591000725019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1591000732005">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1591000732005" />
+  </component>
+</project>
