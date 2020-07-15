@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="627b063b-16dc-439c-bfec-18c4c6a295f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../programmers/level_1/.ipynb_checkpoints/x만큼 간격이 있는 n개의 숫자-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/level_1/.ipynb_checkpoints/x만큼 간격이 있는 n개의 숫자-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programmers/level_1/x만큼 간격이 있는 n개의 숫자.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/level_1/x만큼 간격이 있는 n개의 숫자.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/3_day/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/3_day/Untitled.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="627b063b-16dc-439c-bfec-18c4c6a295f1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,9 +47,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1591000732005">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="317" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1594716302559">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1591000732005" />
+    <state x="317" y="228" key="com.intellij.ide.util.TipDialog/0.23.1280.708/1280.-77.1600.877@0.23.1280.708" timestamp="1594716302559" />
   </component>
 </project>
